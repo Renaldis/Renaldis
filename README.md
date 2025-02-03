@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renaldi Saputra</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
+
 # 💫 About Me:
 🌱 I’m currently learning React JS<br>
 
