@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning React JS<br>
+🌱 I’m currently learning Next JS<br>
 
 
 ## 🌐 Socials:
