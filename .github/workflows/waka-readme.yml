@@ -1,0 +1,21 @@
+name: Update WakaTime stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # Update tiap 12 jam UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: "true"
+          TIME_RANGE: "last_7_days"
+          LANG_COUNT: "5"
+          SHOW_TOTAL: "true"
+          SHOW_TIME: "true"
+          SHOW_MASKED_TIME: "false"
+          STOP_AT_OTHER: "true"
