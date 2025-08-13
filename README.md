@@ -25,3 +25,11 @@
 [![](https://visitcount.itsvg.in/api?id=Renaldis&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+## 📈 Weekly Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
