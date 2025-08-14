@@ -30,39 +30,15 @@
 
 ## 📈 Weekly Coding Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
-**🐱 My GitHub Data** 
+```txt
+From: 06 August 2025 - To: 13 August 2025
 
-> 📦 110.0 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 42 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
-**I'm an Early 🐤** 
+Total Time: 8 mins
 
-```text
-🌞 Morning                315 commits         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-🌆 Daytime                572 commits         ██████████░░░░░░░░░░░░░░░   41.00 % 
-🌃 Evening                494 commits         █████████░░░░░░░░░░░░░░░░   35.41 % 
-🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JavaScript   8 mins          █████████████████████████   100.00 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-JavaScript               8 mins              █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/08/2025 20:42:23 UTC
 <!--END_SECTION:waka-->
 
 ---
