@@ -19,4 +19,9 @@ jobs:
           GH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
           SHOW_PROJECTS: false
           SHOW_LANGUAGE: true
-          SHOW_TOTAL_CODE_TIME: true
+          SHOW_TOTAL_CODE_TIME: false
+          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_LOC_CHART: false
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_EDITORS: false
+          SHOW_OS: false
