@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 # 💫 About Me:
-🚀 Passionate about building scalable web applications
-🌱 Currently learning Next.js & Go for full-stack development
-💡 Exploring performance optimization and clean architecture
+🚀 Passionate about building scalable web applications <br>
+🌱 Currently learning Next.js & Go for full-stack development <br>
+💡 Exploring performance optimization and clean architecture <br>
 🛠 Always experimenting with new technologies to solve real-world problems<br>
 
 
