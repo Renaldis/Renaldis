@@ -47,15 +47,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Total Time: 10 hrs 35 mins
+Total Time: 9 hrs 21 mins
 
-TypeScript   9 hrs 36 mins   ██████████████████████▓░░   90.67 %
-JavaScript   42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-SQL          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   8 hrs 31 mins   ██████████████████████▓░░   91.01 %
+JavaScript   42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
