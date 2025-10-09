@@ -47,15 +47,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2025 - To: 07 October 2025
+From: 01 October 2025 - To: 08 October 2025
 
-Total Time: 27 hrs 40 mins
+Total Time: 26 hrs 39 mins
 
-Go           9 hrs 13 mins   ████████▒░░░░░░░░░░░░░░░░   32.80 %
-TypeScript   8 hrs 23 mins   ███████▒░░░░░░░░░░░░░░░░░   29.82 %
-JavaScript   4 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
-Markdown     1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-JSON         1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Go           11 hrs 9 mins   ██████████▒░░░░░░░░░░░░░░   41.17 %
+TypeScript   7 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   28.76 %
+JavaScript   2 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+Markdown     1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+JSON         1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:waka-->
