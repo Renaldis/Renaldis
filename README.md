@@ -47,14 +47,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2025 - To: 03 January 2026
+From: 28 December 2025 - To: 04 January 2026
 
-Total Time: 1 hr 15 mins
+Total Time: 1 hr 49 mins
 
-Python       55 mins         ██████████████████▒░░░░░░   73.61 %
-JavaScript   10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
-JSON         9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JavaScript   1 hr 19 mins    ██████████████████▒░░░░░░   72.84 %
+Prisma       25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.95 %
+Bash         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
