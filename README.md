@@ -47,14 +47,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2026 - To: 08 April 2026
+From: 02 April 2026 - To: 09 April 2026
 
-Total Time: 8 hrs 41 mins
+Total Time: 7 hrs 43 mins
 
-Go           5 hrs 47 mins         ████████████████░░░░░░░░░   63.97 %
-TypeScript   1 hr 36 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-Bash         23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Other        20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Go           5 hrs 11 mins         ████████████████░░░░░░░░░   64.38 %
+TypeScript   1 hr 36 mins          █████░░░░░░░░░░░░░░░░░░░░   19.87 %
+Other        20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
