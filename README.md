@@ -47,15 +47,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2026 - To: 10 June 2026
+From: 04 June 2026 - To: 11 June 2026
 
-Total Time: 23 hrs 3 mins
+Total Time: 25 hrs 56 mins
 
-Markdown     9 hrs 28 mins         █████████▓░░░░░░░░░░░░░░░   39.27 %
-TypeScript   7 hrs 25 mins         ███████▓░░░░░░░░░░░░░░░░░   30.79 %
-Go           2 hrs 13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-Mermaid      1 hr 5 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Other        1 hr 4 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Markdown     13 hrs 13 mins        ████████████▒░░░░░░░░░░░░   48.90 %
+TypeScript   6 hrs 14 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.07 %
+Go           2 hrs 12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+Other        1 hr 7 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
