@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renaldi Saputra</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 # 💫 About Me:
 🚀 Passionate about building scalable web applications <br>
