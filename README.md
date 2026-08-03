@@ -47,14 +47,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2026 - To: 01 August 2026
+From: 26 July 2026 - To: 02 August 2026
 
-Total Time: 4 hrs 2 mins
+Total Time: 5 hrs 59 mins
 
-Markdown         1 hr 38 mins          █████████░░░░░░░░░░░░░░░░   36.51 %
-Go               1 hr 29 mins          ████████▒░░░░░░░░░░░░░░░░   33.16 %
-TypeScript       32 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-Other            28 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+Markdown         1 hr 55 mins          ███████▒░░░░░░░░░░░░░░░░░   29.55 %
+Go               1 hr 29 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
+TypeScript       34 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Other            31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
 ```
 
 <!--END_SECTION:waka-->
