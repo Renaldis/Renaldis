@@ -57,3 +57,9 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 ---
+
+## Forgejo Contributions
+
+   Primary development happens on self-hosted Forgejo. Private activity is shown only as aggregate statistics.
+
+   [![Forgejo Contributions](https://git.ress.my.id/heatmap/renaldis142.svg)](https://git.ress.my.id/renaldis142)
